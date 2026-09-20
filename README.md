@@ -1,3 +1,5 @@
+
+
 # wasm-obf: WebAssembly obfuscation
 
 This repository contains the source code and experimental data derived from research on WebAssembly obfuscation.
@@ -21,6 +23,7 @@ The experimental data, containing close to 50,000 WebAssembly binaries, can be f
 
 - Python 3
 - Docker
+- Docker Compose
 
 ## Setup
 
